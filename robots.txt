@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://shahaechey.labyrin.tech/sitemap.xml
